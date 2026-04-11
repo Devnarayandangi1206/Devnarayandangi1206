@@ -19,26 +19,27 @@ A passionate Cybersecurity & Full Stack enthusiast from India 🇮🇳
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🛠️ Currently working on:
-- 🚀 Cybersecurity & Ethical Hacking Projects  
+👨‍💻 Java & Web Developer  
+📚 Currently working on DSA & Web Development  
+🚀 Building real-world projects  
 
 ### 🌱 Currently learning:
-- 🔍 Linux Commands  
-- 🐍 Python with Django  
+- 🔍 Linux Commands   
 - 🗄️ DBMS  
+- 🍃 MongoDB  
 
 ### 💬 Ask me about:
-- 💻 C++, Python, Django  
+- 💻 java  
 - 🧠 DSA, Linux  
-- 🔐 Ethical Hacking  
 
 ### 📫 Reach me at:
-- 📧 your-email@gmail.com  
+- 📧 dangidev2005@gmail.com 
 
 ---
 
 ## 🌟 Beyond Programming
 
-- 📚 Exploring: Linux & cybersecurity tools  
+- 📚 Exploring: Linux& cybersecurity tools  
 - 💡 Passion: Solving challenges  
 - 💪 Mindset: Continuous learning  
 
@@ -46,8 +47,8 @@ A passionate Cybersecurity & Full Stack enthusiast from India 🇮🇳
 
 ## ⚡ Fun Fact
 
-- 💻 I love ethical hacking  
-- 🔍 Interested in OSINT & security  
+- 💻 I love coding   
+    ⚡ Fun fact: I enjoy solving DSA problems more than scrolling 📱
 **Devnarayandangi1206/Devnarayandangi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -56,8 +57,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ch me: ...
+
 -->
