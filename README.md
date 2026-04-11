@@ -3,7 +3,7 @@
 <h1 align="center">I'm Devnarayan 👋</h1>
 
 <p align="center">
-A passionate Cybersecurity & Full Stack enthusiast from India 🇮🇳
+java & Full Stack enthusiast from India 🇮🇳
 </p>
 
 <p align="center">
