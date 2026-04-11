@@ -62,10 +62,3 @@ ch me: ...
 -->
 ---
 
-## 🚀 My Projects
-
-### 📚 StudyFlow – Student Planner App
-- 🔗 https://github.com/Devnarayandangi1206/studyflow
-- 🛠️ Django | HTML | CSS | JavaScript  
-- 📌 Smart academic planner with notifications & Pomodoro timer  
-
