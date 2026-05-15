@@ -1,4 +1,4 @@
-## Hi there !!!
+## Hi there
 
 <h1 align="center">I'm Devnarayan 👋</h1>
 
